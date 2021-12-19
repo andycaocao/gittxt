@@ -3,5 +3,7 @@ public class test {
         System.out.println("aaaaaa");
         System.out.println("mamammmmmmm");
         System.out.println("e3333333");
+        System.out.println();
+
     }
 }
